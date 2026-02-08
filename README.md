@@ -1,8 +1,8 @@
 # KutterScript
 
-Este script de Bash automatiza la actualización y parcheo de los archivos de recursos de **Ultimaker Cura** de la imporesoraKuttercraft [https://kuttercraft.com/](https://kuttercraft.com/) en macOS con archivos modificados personalizados (presumiblemente para impresoras Kuttercraft).
+Este script de Bash automatiza la actualización y parcheo de los archivos de recursos de **Ultimaker Cura** de la imporesoraKuttercraft [https://kuttercraft.com/](https://kuttercraft.com/) en macOS con los perfiles modificados para las impresoras Kuttercraft y los materiales Printalot y Grilon
 
-Este archivo es una modificacion del script original que se adjunta con el instalador de Cura en la web de Kuttercraft
+Este archivo es una modificacion del script original que se adjunta con el instalador de Cura en la web de Kuttercraft.
 
 ## Modificaciones:
 
@@ -36,7 +36,7 @@ El script realiza las siguientes acciones:
 
 ## Requisitos
 
-*   **Sistema Operativo:** macOS.
+*   **Sistema Operativo:** macOS (Probado con macOS 26.1).
 *   **Aplicación:** Ultimaker Cura debe estar instalado en la carpeta `/Applications` con el nombre `Ultimaker Cura.app`.
 *   **Archivos Fuente:** Debe existir una carpeta llamada `ARCHIVOS MODIFICADOS` en el mismo directorio que este script, preservando la estructura de subcarpetas (`Resources/resources/...`).
 
