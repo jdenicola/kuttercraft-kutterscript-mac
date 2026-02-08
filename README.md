@@ -43,9 +43,11 @@ El script realiza las siguientes acciones:
 ## Uso
 
 1.  Asegúrate de que Ultimaker Cura esté cerrado e instalado desde la web de Kuttercraft [https://kuttercraft.com/](https://kuttercraft.com/).
-2.  Abre una terminal.
-3.  Navega hasta el directorio donde se encuentra este script.
-4.  Ejecuta el script:
+2.  Descomprimí el zip que descargas, seguí las instrucciones oficiales de instalación.
+3.  Copiá kutterscript.sh donde descomprimiste los archivos.
+4.  Abre una terminal.
+5.  Navega hasta el directorio donde se encuentra este script.
+6.  Ejecuta el script:
     ```bash
     ./kutterscript.sh
     ```
